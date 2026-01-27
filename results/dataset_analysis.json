@@ -1,0 +1,17 @@
+{
+  "dataset_path": "train",
+  "classes": {
+    "0": "Grass_Zone",
+    "1": "No_Fly_Zone",
+    "2": "Paved_Zone"
+  },
+  "splits": {},
+  "recommendations": [
+    "",
+    "\ud83d\udccb AC\u021aIUNI PRIORITARE:",
+    "1. Ruleaz\u0103: python train_yolo_improved.py",
+    "2. Monitorizeaz\u0103: models/drone_landing_lvl3/results.png",
+    "3. Dac\u0103 mAP nu cre\u0219te >5%: Adaug\u0103 mai multe date",
+    "4. Verific\u0103 manual 20 predic\u021bii gre\u0219ite pentru pattern-uri"
+  ]
+}
